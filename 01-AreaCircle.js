@@ -7,7 +7,6 @@
  */
 
 function getAreaCircle(r) {
-  console.log(typeof r);
   if (isNaN(r)) {
     return 'Inputan harus dalam angka';
   }
